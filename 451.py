@@ -21,4 +21,4 @@ class Solution(object):
         """
         return ''.join(a*b for a,b in  sorted(c.items(),key = lambda x: x[1],reverse = True))
             
-        
+        ## for lamba functions refer https://www.youtube.com/watch?v=25ovCm9jKfA&feature=youtu.be
