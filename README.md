@@ -1,5 +1,7 @@
 # Leetcode_Solutions
-Python solution to Easy and Medium Questions. This is a very good platform to learn best practices of python coding. Also is a great way to learn python. I am presenting solution to very easy questions, just for beginers. the best way I think is to print and see what exactly is being executed. 
+Python solution to Easy and Medium Questions. This is a very good platform to learn best practices of python coding.
+I am compiling solutions to very easy questions, just for beginers. the best way I think is to print and see what exactly is being executed.
+Practice ,practice and practice!
 
 
 |  #  |      Title     |   Solutions   |  Difficulty  | Tag                   
