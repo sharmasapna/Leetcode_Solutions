@@ -7,4 +7,4 @@ Practice ,practice and practice!
 |  #  |      Title     |   Solutions   |  Difficulty  | Tag                   
 |-----|----------------|---------------|--------|-------------
 |451  |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](../master/451.py) | |Medium|string,Hash Table|
-|1207  |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](../master/451.py) | |Medium|string,Hash Table|
+|1207  |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](../master/1207.py) | |Medium|string,Hash Table|
