@@ -8,5 +8,5 @@ Practice ,practice and practice!
 |-----|----------------|---------------|--------|-------------
 |451  |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](../master/451.py)  |Medium|string,Hash Table|
 |1207  |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](../master/1207.py)  |Easy|Hash Table|
-|973  |K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/973.py)  |Medium|Lists Hash Table|
+|973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/973.py)  |Medium|Lists Hash Table|
 |594  |[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Solution](../master/594.py)  |Easy|Hash Table|
