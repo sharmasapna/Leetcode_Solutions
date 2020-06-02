@@ -1,3 +1,4 @@
+#1200
 class Solution(object):
     def minimumAbsDifference(self, arr):
         """
