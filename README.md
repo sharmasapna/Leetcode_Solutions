@@ -14,3 +14,4 @@ Practice ,practice and practice!
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|June02 challenge|
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
+|1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](../master/1029.py)  |Easy|List Greedy|June03 challenge|
