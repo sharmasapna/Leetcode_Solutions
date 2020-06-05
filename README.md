@@ -15,3 +15,4 @@ Practice ,practice and practice!
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|June02 challenge|
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
 |1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](../master/1029.py)  |Easy|List Greedy|June03 challenge|
+|344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.py)  |Easy|List|June04 challenge|
