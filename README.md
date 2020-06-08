@@ -17,3 +17,4 @@ Practice ,practice and practice!
 |1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](../master/1029.py)  |Easy|List Greedy|June03 challenge|
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.py)  |Easy|List|June04 challenge|
 |406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](../master/406.py)  |Medium|List|June06 challenge|
+|406 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](../master/518.py)  |Medium|Dynamic Programming|June07 challenge|
