@@ -19,4 +19,5 @@ Practice ,practice and practice!
 |406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](../master/406.py)  |Medium|List|June06 challenge|
 |518 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](../master/518.py)  |Medium|Dynamic Programming|June07 challenge|
 |796 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Solution](../master/796.py)  |Easy|String||
-|231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Medium|Easy|June08 challenge|
+|231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
+|392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/392.py)  |Medium|Easy|June09 challenge|
