@@ -22,4 +22,4 @@ Practice ,practice and practice!
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/392.py)  |Easy|List|June09 challenge|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
-|700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Medium|Binary Search Tree|June15 challenge|
+|700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Easy|Binary Search Tree|June15 challenge|
