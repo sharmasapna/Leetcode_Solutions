@@ -24,3 +24,4 @@ Practice ,practice and practice!
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
 |700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Easy|Binary Search Tree|June15 challenge|
 |290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Solution](../master/290.py)  |Easy|string,dictionary|. |
+|141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
