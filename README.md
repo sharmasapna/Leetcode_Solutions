@@ -27,4 +27,4 @@ Practice ,practice and practice!
 |141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/350.py)  |Easy|two-pointer|. |
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
-|88 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
+|88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
