@@ -29,3 +29,4 @@ Practice ,practice and practice!
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
 |88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/21.py)  |Easy|LinkedList|04Jan21 challenge|
+|1179 |[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](../master/21.py)  |Easy|SQL||
