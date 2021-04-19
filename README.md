@@ -31,5 +31,6 @@ Practice ,practice and practice!
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/21.py)  |Easy|LinkedList|04Jan21 challenge|
 |1179 |[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](../master/1179.py)  |Easy|SQL||
 |595 |[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](../master/595.py)  |Easy|SQL||
-|595 |[Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)|[Solution](../master/620.py)  |Easy|SQL||
+|595 |[Fibonacci Number](https://leetcode.com/problems/not-boring-movies/)|[Solution](../master/620.py)  |Easy|SQL||
+|509 |[Not Boring Movies](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/509.py)  |Easy|hash map|15Apr21 challenge|
 
