@@ -36,3 +36,4 @@ Practice ,practice and practice!
 |1209 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](../master/1209.py)  |Easy|stack|16Apr21 challenge|
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](../master/377.py)  |Medium|DP|19Apr21 challenge|
 |120 |[Triangle](https://leetcode.com/problems/triangle/)|[Solution](../master/120.py)  |Medium|DP|21Apr21 challenge|
+|77 |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/77.py)  |Medium|Backtracking||
