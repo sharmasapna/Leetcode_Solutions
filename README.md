@@ -32,6 +32,7 @@ Practice ,practice and practice!
 |700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Easy|Binary Search Tree|June15 challenge|
 |796 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Solution](../master/796.py)  |Easy|String||
 |973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/973.py)  |Medium|Lists, Hash Table||
+|938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/938.py)  |Medium|Lists, Hash Table||
 |1029 |[Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/)|[Solution](../master/1029.py)  |Easy|List Greedy|June03 challenge|
 |1179 |[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](../master/1179.py)  |Easy|SQL||
 |1200  |[Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)|[Solution](../master/1200.py)  |Easy|Hash Table||
