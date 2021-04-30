@@ -32,6 +32,7 @@ Practice ,practice and practice!
 |1179 |[Reformat Department Table](https://leetcode.com/problems/reformat-department-table/)|[Solution](../master/1179.py)  |Easy|SQL||
 |595 |[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](../master/595.py)  |Easy|SQL||
 |595 |[Fibonacci Number](https://leetcode.com/problems/not-boring-movies/)|[Solution](../master/620.py)  |Easy|SQL||
+|474 |[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Solution](../master/474.py)  |Medium|DP|03Apr21 challenge|
 |509 |[Not Boring Movies](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/509.py)  |Easy|hash map|15Apr21 challenge|
 |1209 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](../master/1209.py)  |Easy|stack|16Apr21 challenge|
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](../master/377.py)  |Medium|DP|19Apr21 challenge|
