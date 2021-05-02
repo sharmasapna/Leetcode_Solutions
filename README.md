@@ -15,13 +15,13 @@ Practice ,practice and practice!
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
-|237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|June02 challenge|
+|237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
 |290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Solution](../master/290.py)  |Easy|string,dictionary|. |
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.py)  |Easy|List|June04 challenge|
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/350.py)  |Easy|two-pointer|. |
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](../master/377.py)  |Medium|DP|19Apr21 challenge|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/392.py)  |Easy|List|June09 challenge|
-|406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](../master/406.py)  |Medium|List|June06 challenge|
+|406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](../master/406.py)  |Medium|List|06June20 challenge|
 |451  |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](../master/451.py)  |Medium|String,Hash Table||
 |474 |[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Solution](../master/474.py)  |Medium|DP|03Apr21 challenge|
 |509 |[Not Boring Movies](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/509.py)  |Easy|hash map|15Apr21 challenge|
