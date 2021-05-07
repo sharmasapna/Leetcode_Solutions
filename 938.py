@@ -33,6 +33,20 @@ class Solution(object):
             
         dfs(root,low,high)
         return self.rsum
+
+        # iterative solution
+        res = 0
+        stack = [root]
+        while stack:
+            node = stack.pop()
+            if node:
+                if high >= node.val >= low:
+                    res += node.val
+                if node.val > low:
+                    stack.append(node.left)
+                if node.val < high:
+                    stack.append(node.right)
+        return res
     
 # check the flow
 #     at node 10 we have dfs(5,low,high) and dfs(15,low,high).
