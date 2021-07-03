@@ -10,6 +10,7 @@ Practice ,practice and practice!
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
 |77 |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/77.py)  |Medium|Backtracking||
 |88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
+|104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/104.py)  |Easy|Tree DFS Recursion and iterative|. |
 |120 |[Triangle](https://leetcode.com/problems/triangle/)|[Solution](../master/120.py)  |Medium|DP|21Apr21 challenge|
 |141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
