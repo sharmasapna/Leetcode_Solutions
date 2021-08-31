@@ -20,6 +20,7 @@ Practice ,practice and practice!
 |290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Solution](../master/290.py)  |Easy|string,dictionary|. |
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.py)  |Easy|List|June04 challenge|
 |350 |[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)|[Solution](../master/350.py)  |Easy|two-pointer|. |
+|359 |[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)|[Solution](../master/359.py)  |Easy|hash map|. |
 |366 |[Find Leaves of Binary Tree](https://leetcode.com/problems/find-leaves-of-binary-tree/)|[Solution](../master/366.py)  |Medium|Recursion|03Jul21 challenge |
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](../master/377.py)  |Medium|DP|19Apr21 challenge|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/392.py)  |Easy|List|June09 challenge|
