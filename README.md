@@ -33,6 +33,7 @@ Practice ,practice and practice!
 |595 |[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](../master/595.py)  |Easy|SQL||
 |620 |[Fibonacci Number](https://leetcode.com/problems/not-boring-movies/)|[Solution](../master/620.py)  |Easy|||
 |655 |[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](../master/655.py)  |Medium|Binary Tree||
+|690 |[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Solution](../master/690.py)  |Easy|Tree|G,A|
 |700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Easy|Binary Search Tree|June15 challenge|
 |796 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Solution](../master/796.py)  |Easy|String||
 |973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/973.py)  |Medium|Lists, Hash Table||
