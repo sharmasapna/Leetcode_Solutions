@@ -1,6 +1,7 @@
 Leetcode_Solutions  
 Python solution to Easy and Medium Questions. This is a very good platform to learn best practices of python coding.
 I am compiling solutions to very easy questions, just for beginners. the best way I think is to print and see what exactly is being executed.
+
 Practice ,practice and practice!
 
 
@@ -47,20 +48,18 @@ Practice ,practice and practice!
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
 
 
-A- Apple
-E- eBay
-F- Facebook
-G- Google
-I- Intuit
-K- Karat
-L- LinkedIn
-M- Microsoft
-R- Reddit
-U- Uber
-Tl- Twillio
-Tw- Twitter
 
-
-
+![](https://img.shields.io/badge/-A:Apple-blue?)
+![](https://img.shields.io/badge/-E:eBay-blue?)
+![](https://img.shields.io/badge/-F:Facebook-blue?)
+![](https://img.shields.io/badge/-G:Google-blue?)
+![](https://img.shields.io/badge/-I:Intuit-blue?)
+![](https://img.shields.io/badge/-K:Karat-blue?)
+![](https://img.shields.io/badge/-L:LinkedIn-blue?)
+![](https://img.shields.io/badge/-M:Microsoft-blue?)
+![](https://img.shields.io/badge/-R:Reddit-blue?)
+![](https://img.shields.io/badge/-U:Uber-blue?)
+![](https://img.shields.io/badge/-Tl:Twillio-blue?)
+![](https://img.shields.io/badge/-T:Twitter-blue?)
 
 
