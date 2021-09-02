@@ -8,6 +8,7 @@ Practice ,practice and practice!
 |-----|----------------|---------------|--------|-------------|-----------|
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/21.py)  |Easy|LinkedList|04Jan21 challenge|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
+|68 |[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](../master/68.py)  |Hard|String|I,G,K,Tl,U,L,R,F,M,A,E|
 |77 |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/77.py)  |Medium|Backtracking||
 |88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
 |104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/104.py)  |Easy|Tree DFS Recursion and iterative|. |
@@ -44,3 +45,22 @@ Practice ,practice and practice!
 |1207  |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](../master/1207.py)  |Easy|Hash Table||
 |1209 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](../master/1209.py)  |Easy|stack|16Apr21 challenge|
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
+
+
+A- Apple
+E- eBay
+F- Facebook
+G- Google
+I- Intuit
+K- Karat
+L- LinkedIn
+M- Microsoft
+R- Reddit
+U- Uber
+Tl- Twillio
+Tw- Twitter
+
+
+
+
+
