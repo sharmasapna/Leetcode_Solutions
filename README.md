@@ -16,7 +16,7 @@ Just keep Practicing !
 |88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
 |104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/104.py)  |Easy|Tree DFS Recursion and iterative|. |
 |120 |[Triangle](https://leetcode.com/problems/triangle/)|[Solution](../master/120.py)  |Medium|DP|21Apr21 challenge|
-|128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](../master/128.py)  |Medium||G,M,A,F,Ad,T,Q|
+|128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](../master/128.py)  |Medium|List, Set|G,M,A,F,Ad,T,Q|
 |141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
