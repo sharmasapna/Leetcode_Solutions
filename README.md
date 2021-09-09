@@ -7,6 +7,7 @@ Just keep Practicing !
 
 |  #  |      Title     |   Solutions   |  Difficulty  | Tag     |Remarks  |         
 |-----|----------------|---------------|--------|-------------|-----------|
+|1 |[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/1.py)  |Easy|hashmap|Am,Ad,G,A,M,Bl,U...|
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/21.py)  |Easy|LinkedList|04Jan21 challenge|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
 |68 |[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](../master/68.py)  |Hard|String|I,G,K,Tl,U,L,R,F,M,A,E|
@@ -49,9 +50,10 @@ Just keep Practicing !
 |1209 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](../master/1209.py)  |Easy|stack|16Apr21 challenge|
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
 
-
-![](https://img.shields.io/badge/-Ad:Adobe-blue?)
 ![](https://img.shields.io/badge/-A:Apple-blue?)
+![](https://img.shields.io/badge/-Ad:Adobe-blue?)
+![](https://img.shields.io/badge/-Am:Amazon-blue?)
+![](https://img.shields.io/badge/-Bl:Bloomberg-blue?)
 ![](https://img.shields.io/badge/-DD:DiDi-blue?)
 ![](https://img.shields.io/badge/-E:eBay-blue?)
 ![](https://img.shields.io/badge/-F:Facebook-blue?)
