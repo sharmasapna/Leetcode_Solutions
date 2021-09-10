@@ -21,6 +21,7 @@ Just keep Practicing !
 |175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](../master/175.sql)  |Easy|SQL|Ad,Am,Bl,A |
 |176 |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](../master/176.sql)  |Easy|SQL|Am,A |
 |177 |[Nth Highest Salary](https://https://leetcode.com/problems/nth-highest-salary/)|[Solution](../master/177.sql)  |Easy|SQL|Am,Bl,Ad,A,G,Or |
+|181 |[Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/)|[Solution](../master/177.sql)  |Easy|SQL|Am,A |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
