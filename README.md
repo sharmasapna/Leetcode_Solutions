@@ -18,6 +18,7 @@ Just keep Practicing !
 |128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](../master/128.py)  |Medium|List, Set|G,M,A,F,Ad,T,Q|
 |141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
+|175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](../master/175.sql)  |Easy|SQL|Ad,Am,Bl,A |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
