@@ -20,6 +20,7 @@ Just keep Practicing !
 |167 |[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution](../master/167.py)  |Easy|two-pointer|. |
 |175 |[Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)|[Solution](../master/175.sql)  |Easy|SQL|Ad,Am,Bl,A |
 |176 |[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[Solution](../master/176.sql)  |Easy|SQL|Am,A |
+|177 |[Nth Highest Salary](https://https://leetcode.com/problems/nth-highest-salary/)|[Solution](../master/177.sql)  |Easy|SQL|Am,Bl,Ad,A,G,Or |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
@@ -65,6 +66,7 @@ Just keep Practicing !
 ![](https://img.shields.io/badge/-K:Karat-blue?)
 ![](https://img.shields.io/badge/-L:LinkedIn-blue?)
 ![](https://img.shields.io/badge/-M:Microsoft-blue?)
+![](https://img.shields.io/badge/-Or:Oracle-blue?)
 ![](https://img.shields.io/badge/-R:Reddit-blue?)
 ![](https://img.shields.io/badge/-SF:SalesForce-blue?)
 ![](https://img.shields.io/badge/-U:Uber-blue?)
