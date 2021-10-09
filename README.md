@@ -40,6 +40,7 @@ Just keep Practicing !
 |518 |[Coin Change 2](https://leetcode.com/problems/coin-change-2/)|[Solution](../master/518.py)  |Medium|Dynamic Programming|June07 challenge|
 |594  |[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)|[Solution](../master/594.py)  |Easy|Hash Table||
 |595 |[Big Countries](https://leetcode.com/problems/big-countries/)|[Solution](../master/595.py)  |Easy|SQL||
+|605 |[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)|[Solution](../master/609.py)  |Easy|String|L,F|
 |620 |[Fibonacci Number](https://leetcode.com/problems/not-boring-movies/)|[Solution](../master/620.py)  |Easy|||
 |655 |[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](../master/655.py)  |Medium|Binary Tree||
 |690 |[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Solution](../master/690.py)  |Easy|Tree|G,A|
