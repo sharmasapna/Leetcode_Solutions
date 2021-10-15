@@ -8,6 +8,7 @@ Just keep Practicing !
 |  #  |      Title     |   Solutions   |  Difficulty  | Tag     |Remarks  |         
 |-----|----------------|---------------|--------|-------------|-----------|
 |1 |[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution](../master/1.py)  |Easy|hashmap|Am,Ad,G,A,M,Bl,U...|
+|2 |[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution](../master/2.py)  |Medium|Linked List|Am,Ad,Bl,A,M,G,F,U...|
 |21 |[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution](../master/21.py)  |Easy|LinkedList|04Jan21 challenge|
 |35 |[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution](../master/35.py)  |Easy|List|June10 challenge|
 |68 |[Text Justification](https://leetcode.com/problems/text-justification/)|[Solution](../master/68.py)  |Hard|String|I,G,K,Tl,U,L,R,F,M,A,E|
