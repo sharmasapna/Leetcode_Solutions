@@ -29,6 +29,7 @@ Just keep Practicing !
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
+|242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/242.py)  |Easy|List|Bl,G,M,U,Am,A,W,J|
 |243  |[Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/)|[Solution](../master/243.py)  |Easy|List|L,A,GS,M,U,SF,DD|
 |290 |[Word Pattern](https://leetcode.com/problems/word-pattern/)|[Solution](../master/290.py)  |Easy|string,dictionary|. |
 |344 |[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.py)  |Easy|List|June04 challenge|
@@ -69,15 +70,18 @@ Just keep Practicing !
 ![](https://img.shields.io/badge/-G:Google-blue?)
 ![](https://img.shields.io/badge/-GS:GoldManSachs-blue?)
 ![](https://img.shields.io/badge/-I:Intuit-blue?)
+![](https://img.shields.io/badge/-J:JPMC-blue?)
 ![](https://img.shields.io/badge/-K:Karat-blue?)
 ![](https://img.shields.io/badge/-L:LinkedIn-blue?)
 ![](https://img.shields.io/badge/-M:Microsoft-blue?)
 ![](https://img.shields.io/badge/-Or:Oracle-blue?)
+![](https://img.shields.io/badge/-Q:Qualtrics-blue?)
 ![](https://img.shields.io/badge/-R:Reddit-blue?)
 ![](https://img.shields.io/badge/-SF:SalesForce-blue?)
-![](https://img.shields.io/badge/-U:Uber-blue?)
 ![](https://img.shields.io/badge/-Tl:Twillio-blue?)
 ![](https://img.shields.io/badge/-T:Twitter-blue?)
-![](https://img.shields.io/badge/-Q:Qualtrics-blue?)
+![](https://img.shields.io/badge/-U:Uber-blue?)
+![](https://img.shields.io/badge/-W:Walmart-blue?)
+
 
 
