@@ -15,6 +15,7 @@ Just keep Practicing !
 |77 |[Combinations](https://leetcode.com/problems/combinations/)|[Solution](../master/77.py)  |Medium|Backtracking||
 |88 |[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)|[Solution](../master/88.py)  |Easy|two-pointer|. |
 |104 |[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution](../master/104.py)  |Easy|Tree DFS Recursion and iterative|. |
+|118 |[Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)|[Solution](../master/118.py)  |Easy|String, DP|Am,M,A,Ad,U Y |
 |120 |[Triangle](https://leetcode.com/problems/triangle/)|[Solution](../master/120.py)  |Medium|DP|21Apr21 challenge|
 |128 |[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution](../master/128.py)  |Medium|List, Set|G,M,A,F,Ad,T,Q|
 |141 |[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution](../master/141.py)  |Easy|two-pointer|. |
