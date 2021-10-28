@@ -52,6 +52,7 @@ Just keep Practicing !
 |655 |[Print Binary Tree](https://leetcode.com/problems/print-binary-tree/)|[Solution](../master/655.py)  |Medium|Binary Tree||
 |690 |[Employee Importance](https://leetcode.com/problems/employee-importance/)|[Solution](../master/690.py)  |Easy|Tree|G,A|
 |700 |[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[Solution](../master/700.py)  |Easy|Binary Search Tree|June15 challenge|
+|703 |[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution](../master/703.py)  |Easy|Heapq|Am,F|
 |796 |[Rotate String](https://leetcode.com/problems/rotate-string/)|[Solution](../master/796.py)  |Easy|String||
 |973  |[K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)|[Solution](../master/973.py)  |Medium|Lists, Hash Table||
 |938  |[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[Solution](../master/938.py)  |Easy|Tree DFS Iterative||
