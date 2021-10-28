@@ -28,7 +28,6 @@ Just keep Practicing !
 |185 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[Solution](../master/185.sql)  |Hard|SQL|Am,U,E,F |
 |226  |[ Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution](../master/226.py)  |Easy|Binary Search Tree|June01 challenge|
 |231 |[Power of Two](https://leetcode.com/problems/power-of-two/)|[Solution](../master/231.py)  |Easy||June08 challenge|
-
 |232 |[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Solution](../master/232.py)  |Easy||Am,M,A,GS|
 |237  |[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)|[Solution](../master/237.py)  |Easy|Linked List|02June20 challenge|
 |242  |[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/242.py)  |Easy|List|Bl,G,M,U,Am,A,W,J|
