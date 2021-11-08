@@ -40,6 +40,7 @@ Just keep Practicing !
 |377 |[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)|[Solution](../master/377.py)  |Medium|DP|19Apr21 challenge|
 |392 |[Is Subsequence](https://leetcode.com/problems/is-subsequence/)|[Solution](../master/392.py)  |Easy|List|June09 challenge|
 |406 |[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/)|[Solution](../master/406.py)  |Medium|List|06June20 challenge|
+|438 |[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)|[Solution](../master/438.py)  |Medium|Sliding Window|M,Am,F,P,G|
 |451  |[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/)|[Solution](../master/451.py)  |Medium|String,Hash Table||
 |474 |[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/)|[Solution](../master/474.py)  |Medium|DP|03Apr21 challenge|
 |509 |[Not Boring Movies](https://leetcode.com/problems/fibonacci-number/)|[Solution](../master/509.py)  |Easy|hash map|15Apr21 challenge|
