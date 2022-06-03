@@ -89,3 +89,30 @@ Just keep Practicing !
 
 
 
+### 202. Happy Numbers 
+### Easy
+```
+class Solution:
+    def isHappy(self, n: int) -> bool:
+
+        def getnewn(num):
+            res = 0
+            for val in str(num):
+                res += int(val)*int(val)
+            return res
+        
+        dic = {}
+        while(1):
+            newn = getnewn(n)
+            if newn in dic:
+                return False
+            else: 
+                dic[newn] = 1
+            if newn == 1:
+                return True
+            else:
+                n = newn
+```
+
+
+
