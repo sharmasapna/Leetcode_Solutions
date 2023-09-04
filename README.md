@@ -63,6 +63,7 @@ Just keep Practicing !
 |1207  |[Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)|[Solution](../master/1207.py)  |Easy|Hash Table||
 |1209 |[Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)|[Solution](../master/1209.py)  |Easy|stack|16Apr21 challenge|
 |1436 |[Destination City](https://leetcode.com/problems/destination-city/)|[Solution](../master/1436.py)  |Easy|List||
+|1762 |[Buildings with an ocean view]([https://leetcode.com/problems/destination-city/](https://github.com/sharmasapna/Leetcode_Solutions/blob/master/1762.py))|[Solution](../master/1436.py)  |Medium|List|F|
 
 ![](https://img.shields.io/badge/-A:Apple-blue?)
 ![](https://img.shields.io/badge/-Ad:Adobe-blue?)
@@ -87,32 +88,6 @@ Just keep Practicing !
 ![](https://img.shields.io/badge/-U:Uber-blue?)
 ![](https://img.shields.io/badge/-W:Walmart-blue?)
 
-
-
-### 202. Happy Numbers 
-### Easy
-```
-class Solution:
-    def isHappy(self, n: int) -> bool:
-
-        def getnewn(num):
-            res = 0
-            for val in str(num):
-                res += int(val)*int(val)
-            return res
-        
-        dic = {}
-        while(1):
-            newn = getnewn(n)
-            if newn in dic:
-                return False
-            else: 
-                dic[newn] = 1
-            if newn == 1:
-                return True
-            else:
-                n = newn
-```
 
 
 
