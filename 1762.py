@@ -45,7 +45,7 @@ class Solution:
         #     stack.append(i)
         # return res[::-1]
 
-        ## optimizing on space 
+        ## optimizing on space for the above solution
         # time complexity n and space complexity O(1)
         l = len(heights)
         res = []
